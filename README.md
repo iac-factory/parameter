@@ -11,11 +11,6 @@ the following utility methods are available to the `Parameter` class:
 - `Parameter.instantiate()`
 - `Parameter.create()`
 
-to follow an opinionated convention
-to be used in cloud-related 
-
-Parameters often used during configuration can be a difficult concept to standardize.
-
 `@iac-factory/parameter` aims to strictly define a naming and constructor convention to ease efforts associated
 with configuration, while allowing for an easy inheritance pattern to further extend from; examples of applicable
 extensions include usages with:
