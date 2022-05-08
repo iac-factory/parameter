@@ -121,7 +121,3 @@ console.log(instance.string("Directory"));
 console.log(instance.string("Train-Case"));
 console.log(instance.string("Screaming-Train-Case"));
 ```
-
-## Documentation ##
-
-Please see [documentation](./documentation) for additional information and reference(s).
