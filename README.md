@@ -39,7 +39,7 @@ What is meant by "Type-Interface" is welcome to interpretation. However, the int
 
 ## Usage ##
 
-`@iac-factory/parameter` uses the latest Node.js LTS version; to quickly enable, run `nvm use`.
+`@iac-factory/parameter` uses the latest Node.js LTS version.
 
 - See [installation guide](https://github.com/nvm-sh/nvm#about) for a quick walk-through on installing `nvm`.
 
